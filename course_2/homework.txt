@@ -1,0 +1,16 @@
+Backtracking:
+https://www.pbinfo.ro/probleme/194/anagrame1
+https://www.pbinfo.ro/probleme/197/combinari
+https://www.pbinfo.ro/probleme/3916/elim-m
+
+Binary Search:
+https://www.pbinfo.ro/probleme/2789/cb3
+https://www.pbinfo.ro/probleme/2443/cb2
+https://www.pbinfo.ro/probleme/661/triunghiuri1
+
+Prefix Sums / Difference Array:
+https://www.pbinfo.ro/probleme/2921/sumesecv1
+https://www.pbinfo.ro/probleme/1268/easyquery
+https://www.pbinfo.ro/probleme/3796/qtsume
+https://www.pbinfo.ro/probleme/3499/secv011
+https://www.infoarena.ro/problema/galagie 

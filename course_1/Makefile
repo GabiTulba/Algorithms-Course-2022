@@ -12,6 +12,7 @@ build:
 	$(CC) $(FLAGS) ssm_nlogn.cpp -o ssm2.elf
 	$(CC) $(FLAGS) ssm_n.cpp -o ssm3.elf
 	$(CC) $(FLAGS) z.cpp -o z_parc.elf
+	$(CC) $(FLAGS) hanoi.cpp -o hanoi.elf
 
 clean:
 	rm *.elf
